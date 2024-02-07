@@ -1,0 +1,1 @@
+# git-hires-merge-example
