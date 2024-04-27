@@ -1,10 +1,9 @@
-// EDIT 1
 package com.example;
 
-import java.util.List; // Common import stays
+import java.util.List;
 import java.util.ArrayList;
-import java.util.Map; // New import added
-import java.io.IOException; // New import added replacing File
+import java.util.Map;
+import java.io.IOException;
 
 public class App {
     public boolean returnTrue() {
